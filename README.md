@@ -24,16 +24,6 @@
 
 ---
 
-### 💼 Featured Projects
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🧾 **Smart Order Management System (SOMS)** | Cloud kitchen management system with Razorpay payment integration and microservices architecture | Java, Spring Boot, MySQL, Docker |
-| 🍲 **Recipe Book System** | Backend for managing and sharing recipes with CRUD APIs | Java, Spring Boot, MySQL |
-| 🏫 **College Management System** | Console-based student data management system | C, File Handling |
-| 🍔 **Swiggy Clone** | Full-stack clone app for restaurant ordering and tracking | ReactJS, TypeScript, Firebase |
-
----
-
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaisindhuCosmotrace&show_icons=true&theme=graywhite&hide_border=true" alt="GitHub Stats" height="160px"/>
